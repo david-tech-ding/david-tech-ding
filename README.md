@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A full-stack developer based in Manchester, open for work in London or North West United Kingdom</h3>
 
-- 🔭 I’m currently working on **building a MERN financial dashboard**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **dingtechxing1@gmail.com**
+
+- Or reach out to me after a peek at my portfolio @ **https://david-tech-ding.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
