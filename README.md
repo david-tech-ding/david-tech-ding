@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 📫 How to reach me **dingtechxing1@gmail.com**
 
