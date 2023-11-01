@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A full-stack developer based in Manchester, open for work in London or North West United Kingdom</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Data Structures and Algorithms** @ https://leetcode.com/tech-dd/
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
