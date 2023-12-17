@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A full-stack developer based in Manchester, open for work in London or North West United Kingdom</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms** @ https://leetcode.com/tech-dd/
+- 🔭 I’m currently working on **Soundverse Music App interacting with Spotify API** 
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Data Structures and Algorithms @ https://leetcode.com/tech-dd/**
 
 - 📫 How to reach me **dingtechxing1@gmail.com**
 
