@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A full-stack developer based in Manchester, open for work in London or North West United Kingdom</h3>
 
-- 🔭 I’m currently working on **building a Artificial Intelligence Chatbot to refine my MERN skills
+- 🔭 I’m currently working on **building an Artificial Intelligence Chatbot** to refine my MERN skills
 
 - 🌱 I’m currently learning **Data Structures and Algorithms @ https://leetcode.com/tech-dd/**
 
